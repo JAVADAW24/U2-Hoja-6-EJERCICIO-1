@@ -1,5 +1,5 @@
 # U2-Hoja-7-EJERCICIO-6
-taller lleno de metodos y funciones JAVA (sin corregir)
+El del Taller lleno de metodos y funciones JAVA (sin corregir)
 
 ```java
 Este ejercicio ha sido un bypass en programación. Quizás el momento en que ha llegado o el nivel no se corresponde con lo que se ve en clase.
