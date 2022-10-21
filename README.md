@@ -1,6 +1,8 @@
 # U2-Hoja-7-EJERCICIO-6
 El del Taller lleno de metodos y funciones JAVA (sin corregir)
 
+Corregido: https://github.com/Hugocl01/Tema2-Objetos-Hoja06-ej1
+
 ```java
 
 Este ejercicio ha sido un bypass en programación. Quizás el momento en que 
